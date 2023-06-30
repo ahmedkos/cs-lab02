@@ -11,6 +11,6 @@ int main()
     cout << "A-B = " << a-b << endl;
     cout << "A*B = " << a*b << endl;
     cout << "A/B = " << a/b << endl;
-    if (a>b) cout << "Max number = " << a;
-    else cout << "Max number = " << b;
+    if (a>b) cout << "Max number = " << a<<endl;
+    else cout << "Max number = " << b << endl;
 }
